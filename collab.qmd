@@ -4,3 +4,7 @@ format: html
 ---
 
 ## Tut 6 Rebase
+
+
+Change done by person B - Naveen Kaushik 
+
